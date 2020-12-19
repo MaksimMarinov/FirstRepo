@@ -1,2 +1,2 @@
 # FirstRepo
-Creating with VisualStudio
+2. Changed Directly
