@@ -8,7 +8,6 @@ Change2
 4. Could i make one more change?
 
 5. Conflict!!!!
-=======
 6. One more conflict!
 
 
